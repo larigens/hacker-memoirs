@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://larigens.github.io/hacker-memoirs",
+  "homepage": "https://larigens.github.io/hacker-memoirs/",
  "scripts": {
   "dev": "vite",
   "build": "vite build",
